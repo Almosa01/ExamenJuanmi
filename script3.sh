@@ -1,0 +1,1 @@
+total=`cat ventas_mensuales.txt | wc -l`;
